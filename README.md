@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangsinhisme" alt="sangsinhisme" /></a> </p>
 
-- 🔭 I’m currently working on [CExP](https://blog.cads.live/)
+- 🔭 I’m currently working on [Sinch Project]([https://blog.cads.live/](https://sinch.com/))
 
 - 📫 How to reach me **sangsinhisme@gmail.com**
 
